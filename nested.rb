@@ -94,7 +94,11 @@ def changing_alan
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
+<<<<<<< HEAD
           :known_for => "GUI",
+=======
+          :known_for => "GUI"
+>>>>>>> 25c677dd858313ef9ffadc036a5663b79b17b5ab
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
@@ -104,8 +108,11 @@ def changing_alan
      }
      #change what Alan Kay is :known_for to the value of the alans_new_info variable.
      alans_new_info = "GUI"
+<<<<<<< HEAD
  programmer_hash[:alan_kay][:known_for]= alans_new_info
  programmer_hash
+=======
+>>>>>>> 25c677dd858313ef9ffadc036a5663b79b17b5ab
 
 end
 
