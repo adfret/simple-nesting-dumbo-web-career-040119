@@ -95,7 +95,7 @@ def changing_alan
         },
         :alan_kay => {
           :known_for => "GUI",
-          :known_for => "GUI", 
+          :known_for => "GUI",
 
           :languages => ["Smalltalk", "LISP"]
         },
